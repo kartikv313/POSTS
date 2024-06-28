@@ -1,0 +1,19 @@
+.head{
+    color: maroon;
+}
+.username{
+    font-style: italic;
+    background-color: bisque;
+    text-decoration: underline;
+}
+.content{
+    background-color: bisque;
+    margin-left: 10px;
+}
+.Submit-btn{
+    margin-left: 110px;
+}
+
+a{
+    text-decoration: none;
+}
